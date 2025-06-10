@@ -1,6 +1,6 @@
-# User Search Application
+# User search application
 
-A simple web application that displays a list of users fetched from an API and allows you to filter them by name or location.
+A simple web application that displays a list of users fetched from an API and allows filtering by name or location.
 
 ## Features
 
